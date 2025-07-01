@@ -1,5 +1,5 @@
 import axios from 'axios';
-import type { Movie } from '../types/Movie';
+import type { Movie } from '../types/movie';
 
 axios.defaults.baseURL = "https://api.themoviedb.org/3"
 
